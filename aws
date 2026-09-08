@@ -7,3 +7,4 @@ EC2 Stands For Elastic Cloud Compute
 S3: S3 Is a storage service in aws
 S3 stands for Simple Storage Service
 S3 is regional
+The minimum size of the file upload in git is 0 bytes
