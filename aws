@@ -11,3 +11,4 @@ The minimum size of the file upload in git is 0 bytes
 The Maximum size of the Bucket is 5TB
 The Maximum size we can upload at a time is 5GB through Multi Part Upload
 S3 has 6types of standard classes
+They are 1. Standard Frequently Access
